@@ -1,4 +1,4 @@
-u# Hi there, I'm Javis Otieno 👋
+Hi there, I'm Javis Otieno 👋
 
 ### Backend Software Developer | API Engineering | Database Systems | Data Science
 
