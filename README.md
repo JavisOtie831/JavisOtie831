@@ -4,7 +4,7 @@ u# Hi there, I'm Javis Otieno 👋
 
 I am a Software Developer passionate about building reliable backend applications, designing RESTful APIs, integrating databases, and developing technology solutions to real-world problems.
 
-I hold a **BSc in Software Development from KCA University** and am pursuing further studies in **Msc Data Science UniversityofNairobi**. My interests span backend engineering, enterprise application development, database management, data analytics, and Artificial Intelligence.
+I hold a **BSc in Software Development from KCA University** and am pursuing further studies in **Msc Data Science University of Nairobi**. My interests span backend engineering, enterprise application development, database management, data analytics, and Artificial Intelligence.
 
 - 🔭 **Currently working on:** Backend applications, information management systems, and API integrations.
 - 🌱 **Currently learning:** Spring Boot, Java, ASP.NET Core, and advanced data science techniques.
